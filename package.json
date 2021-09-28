@@ -1,0 +1,19 @@
+{
+  "name": "playground92721",
+  "version": "1.0.0",
+  "description": "inclass demo",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyMedina/playgroun092721.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TommyMedina/playgroun092721/issues"
+  },
+  "homepage": "https://github.com/TommyMedina/playgroun092721#readme"
+}
